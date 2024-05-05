@@ -1,0 +1,22 @@
+{
+  "name": "playwrighttypescriptautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0-alpha-oct-20-2023",
+    "@types/node": "^20.12.8"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0-alpha-oct-20-2023",
+    "playwright-core": "^1.40.0-alpha-oct-20-2023",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
